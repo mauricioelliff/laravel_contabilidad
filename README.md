@@ -1,6 +1,6 @@
 # contabilidad
 
-This is example code of my working in Laravel.
-This is a module inside a project, using nwidart modules.
+Laravel.
+This is a module inside a project, using DDD and nwidart modules.
 
 The project has spanish words.
